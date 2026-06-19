@@ -32,5 +32,5 @@ Dự án được phát triển dựa trên các công nghệ phổ biến sau:
 ### 1. Clone project về máy
 Mở terminal hoặc git bash và chạy lệnh:
 ```bash
-git clone [https://github.com/haquangha/Booknest.git](https://github.com/haquangha/Booknest.git)
+git clone https://github.com/haquangha/Booknest.git
 cd Booknest
